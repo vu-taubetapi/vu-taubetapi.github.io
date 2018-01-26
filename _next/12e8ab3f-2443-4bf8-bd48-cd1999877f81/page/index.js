@@ -1,0 +1,6 @@
+
+          window.__NEXT_REGISTER_PAGE('/', function() {
+            var comp = module.exports=webpackJsonp([4],{234:function(e,t,a){e.exports=a(235)},235:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var n=a(1),r=l(n),u=a(24),c=l(u),d=a(25),s=l(d),i=a(47),f=l(i);t.default=function(){return r.default.createElement("div",null,r.default.createElement(c.default,{title:"Vanderbilt Tau Beta Pi"}),r.default.createElement(s.default,null),r.default.createElement("header",{className:"masthead"},r.default.createElement("div",{className:"container"},r.default.createElement("div",{className:"intro-text"},r.default.createElement("div",{className:"intro-heading text-uppercase"},r.default.createElement("span",{className:"gold"},"Vanderbilt")," Tau Beta Pi"),r.default.createElement("div",{className:"intro-lead-in"},"The Engineering Honor Society"),r.default.createElement(f.default,{href:"/about"},r.default.createElement("a",{className:"btn btn-outline-primary btn-xl text-uppercase js-scroll-trigger"},"About")),"  ",r.default.createElement(f.default,{href:"/events"},r.default.createElement("a",{className:"btn btn-primary btn-xl text-uppercase js-scroll-trigger"},"Events"))))))}}},[234]);
+            return { page: comp.default }
+          })
+        
